@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theReplicatorOfD`To", "theReplicatorOfD`To.csproj", "{40D6EEA2-5F87-465F-9AB8-1C38B6D27F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D6EEA2-5F87-465F-9AB8-1C38B6D27F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D6EEA2-5F87-465F-9AB8-1C38B6D27F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D6EEA2-5F87-465F-9AB8-1C38B6D27F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D6EEA2-5F87-465F-9AB8-1C38B6D27F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31586ED6-B2D0-490D-B062-1ACABA1CAF18}
+	EndGlobalSection
+EndGlobal
